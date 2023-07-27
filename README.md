@@ -1,21 +1,11 @@
-# Tasks list - React
+# homepage 8 - Tasks list - React
 Here is my module 8 homework showing tasks list using create-react-app
 
 ## Demo
 
-[Task list - preview](https://parvinaodinaeva.github.io/homepage_7/)
+[Task list - preview](https://parvinaodinaeva.github.io/tasks-list-react/)
 
 ![list image](https://i.postimg.cc/tTCL6wRK/list-image.png)
-
-## *Description*
-<br>Here I present my first work related to functions, objects & tables in Javascript
-<br>*Method of use*
-<br>-enter text in field
-<br>-add to the list by clicking on the "Add task" button
-<br>-If necessary, completed tasks can be crossed out by clicking ✔ or removed from the list by clicking 🗑
-<br>The list has been supplemented with two buttons:
-<br>marking all tasks as completed
-<br>show/hide completed tasks
 
 ### Technologies used:
 1. HTML
